@@ -1,2 +1,1 @@
-# precurso-Henry-Patriarca
-practica de un repositorio del modulo 2 del precurso de Henry
+ceramos un repositorio desde github y a traves de git lo clonamos a nuestra pc, posteriormente trabajamos en el desde vcs.
